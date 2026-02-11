@@ -601,7 +601,7 @@ export default function BurnoutQuiz() {
             justifyContent: "center", flexWrap: "wrap",
           }}>
             <a
-              href="https://instagram.com/YOUR_HANDLE"
+              href="https://instagram.com/watch.ace"
               target="_blank"
               rel="noopener noreferrer"
               style={{
